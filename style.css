@@ -1,0 +1,35 @@
+.navbar a{
+    font-size: 18px;
+    color: black;
+}
+.title h2{
+    font-size: 30px;
+   margin: 5%;
+}
+.title small{
+    font-size: 15px;
+}
+.rest_img{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+.section-2{
+    display: flex;
+  justify-content: center;
+}
+.login{
+    margin-top:55%;
+}
+.display{
+    box-sizing: border-box;
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 2%;
+}
+
+.FixedHeightContainer{
+    height: 50%;
+   overflow-y: auto;
+}
